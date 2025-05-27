@@ -1,6 +1,6 @@
 # ImageIn-Image-Steganography-Application
 
-📷 **ImageIn**
+📷 **ImageIn**<br/>
 A Cybersecurity Image Steganography Application
 
 🔍 **What is ImageIn?**
