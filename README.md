@@ -36,8 +36,7 @@ Save your modified images and send them without drawing attention.<br/><br/><br/
 📥 **Download & Use**<br/>
 You can download the latest version of ImageIn below and start using it right away—no need to install anything complicated.
 
-👉 [**Click here to download the application**](https://github.com/japes-byte/ImageIn-Image-Steganography-Application/releases/download/Stegano-1/ImageIn.zip)<br/>
-👉 [**testing**](https://github.com/japes-byte/ImageIn-Image-Steganography-Application/releases/download/test-1/ImageIn.exe)
+👉 [**Click here to download the application**](https://github.com/japes-byte/ImageIn-Image-Steganography-Application/releases/download/Stegano-1/ImageIn.zip)
 
 No technical setup required.<br/><br/><br/>
 
