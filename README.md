@@ -8,7 +8,7 @@ A Cybersecurity Image Steganography Application<br/><br/><br/>
 ImageIn is a simple yet powerful desktop application designed to help you hide sensitive information inside images. Whether you're a student, educator, or cybersecurity enthusiast, this tool makes it easy to protect and share data in a discreet and secure way.<br/><br/><br/>
 
 
-✨ **What Can It Do?**<br/><br/>
+✨ **What Can It Do?**<br/>
 1. 🖼️ Hide Messages or Files in Images<br/>
 Conceal private text or files within ordinary-looking images.
 
@@ -30,7 +30,7 @@ Save your modified images and send them without drawing attention.
 
 🕵️‍♂️ Privacy-conscious users who want to keep certain files or messages hidden
 
-🧠 Anyone curious about data protection in a visual and hands-on way<br/><br/><br/>
+🧠 Anyone curious about data protection in a visual and hands-on way<br/><br/><br/><br/>
 
 
 📥 **Download & Use**<br/>
