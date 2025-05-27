@@ -22,7 +22,7 @@ Supports popular image formats for flexibility.
 A clean and intuitive layout that anyone can navigate—no technical skills needed.
 
 5. 📂 Save and Share<br/>
-Save your modified images and send them without drawing attention.
+Save your modified images and send them without drawing attention.<br/><br/><br/>
 
 
 🚀 **Who Is It For?**<br/>
@@ -30,7 +30,7 @@ Save your modified images and send them without drawing attention.
 
 🕵️‍♂️ Privacy-conscious users who want to keep certain files or messages hidden
 
-🧠 Anyone curious about data protection in a visual and hands-on way<br/><br/><br/><br/>
+🧠 Anyone curious about data protection in a visual and hands-on way<br/><br/><br/>
 
 
 📥 **Download & Use**<br/>
