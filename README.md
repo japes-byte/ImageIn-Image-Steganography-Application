@@ -35,7 +35,7 @@ You can download the latest version of ImageIn below and start using it right aw
 👉 **Click here to download the application**
 (Replace with your actual download link)
 
-Works on Windows. No technical setup required.
+No technical setup required.
 
 ⚠️ Disclaimer
 This tool is for educational and personal use only. Please use it responsibly and never for any illegal or harmful purposes.
