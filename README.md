@@ -1,27 +1,27 @@
 # ImageIn-Image-Steganography-Application
 
 📷 **ImageIn**<br/>
-A Cybersecurity Image Steganography Application<br/><br/>
+A Cybersecurity Image Steganography Application<br/><br/><br/>
 
 
 🔍 **What is ImageIn?**<br/>
-ImageIn is a simple yet powerful desktop application designed to help you hide sensitive information inside images. Whether you're a student, educator, or cybersecurity enthusiast, this tool makes it easy to protect and share data in a discreet and secure way.<br/><br/>
+ImageIn is a simple yet powerful desktop application designed to help you hide sensitive information inside images. Whether you're a student, educator, or cybersecurity enthusiast, this tool makes it easy to protect and share data in a discreet and secure way.<br/><br/><br/>
 
 
-✨ **What Can It Do?**<br/>
-🖼️ Hide Messages or Files in Images<br/>
+✨ **What Can It Do?**<br/><br/>
+1. 🖼️ Hide Messages or Files in Images<br/>
 Conceal private text or files within ordinary-looking images.
 
-🔐 Password-Protected Encryption<br/>
+2. 🔐 Password-Protected Encryption<br/>
 Keep your hidden data secure with password protection.
 
-🧩 Works with Many Image Types<br/>
+3. 🧩 Works with Many Image Types<br/>
 Supports popular image formats for flexibility.
 
-🎨 Easy-to-Use Interface<br/>
+4. 🎨 Easy-to-Use Interface<br/>
 A clean and intuitive layout that anyone can navigate—no technical skills needed.
 
-📂 Save and Share<br/>
+5. 📂 Save and Share<br/>
 Save your modified images and send them without drawing attention.
 
 
@@ -30,7 +30,7 @@ Save your modified images and send them without drawing attention.
 
 🕵️‍♂️ Privacy-conscious users who want to keep certain files or messages hidden
 
-🧠 Anyone curious about data protection in a visual and hands-on way<br/><br/>
+🧠 Anyone curious about data protection in a visual and hands-on way<br/><br/><br/>
 
 
 📥 **Download & Use**<br/>
@@ -39,7 +39,7 @@ You can download the latest version of ImageIn below and start using it right aw
 👉 **Click here to download the application**<br/>
 (Replace with your actual download link)
 
-No technical setup required.<br/><br/>
+No technical setup required.<br/><br/><br/>
 
 
 ⚠️ Disclaimer<br/>
