@@ -42,5 +42,5 @@ No technical setup required.<br/><br/><br/>
 
 
 ⚠️ Disclaimer<br/>
-This tool is for educational and personal use only. Please use it responsibly and never for any illegal or harmful purposes. Any usage beyond its intended purpose will not be under the responsibility of the author.
+This tool is for educational and personal use only. Please use it responsibly and never for any illegal or harmful purposes. Any usage beyond its intended purpose will not be under the liability of the author.
 
